@@ -1,7 +1,7 @@
 module.exports = [
   { text: 'Guide', link: '/guide/', activeMatch: '/guide/' },
   { text: 'Config', link: '/config/', activeMatch: '/config/' },
-  { text: 'Changelog', link: 'https://github.com/...' },
+  { text: 'Changelog', link: 'https://github.com/huangpw' },
   {
     text: 'Dropdown Menu',
     items: [
